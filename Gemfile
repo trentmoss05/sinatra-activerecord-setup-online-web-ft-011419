@@ -7,7 +7,10 @@ gem 'require_all'
 gem 'activerecord', '4.2.5'
 gem 'sinatra-activerecord'
 gem 'rake'
+<<<<<<< HEAD
 gem 'sqlite3'
+=======
+>>>>>>> 6396c52c7897a7f24dc378dad1197fd10368e2bf
 
 
 group :development do
